@@ -1,0 +1,19 @@
+.arrowContainer {
+    height: 20vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.creativeContent {
+    display: flex;
+    flex-direction: row;
+}
+
+.arrowButton {
+    background: black !important;
+}
+
+.arrowIcon {
+    color: white !important;
+}
